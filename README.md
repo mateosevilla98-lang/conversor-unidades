@@ -23,8 +23,8 @@ Clonar el repositorio, compilar `conversor.cpp` mediante el comando `g++ convers
 ## Integrantes
 | Integrante | Aporte | Rama utilizada |
 |---|---|---|
-| Mate | Módulo de Longitud | feature/conversion-longitud |
-| Estudiante 2 | Módulo de Peso | feature/conversion-peso |
+| Mateo Sevilla | Módulo de Longitud | feature/conversion-longitud |
+| Joel Sinchiguano | Módulo de Peso | feature/conversion-peso |
 
 ## Flujo de colaboración
 Se clonó el repositorio, cada estudiante creó una rama `feature/`, realizó tres commits, generó un Pull Request, y se realizó revisión de código cruzada antes del merge.
