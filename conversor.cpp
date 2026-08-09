@@ -7,6 +7,12 @@ void gramosAKilogramos() {
     cin >> gramos;
     cout << gramos << " g equivalen a " << gramos / 1000.0 << " kg." << endl;
 }
+void gramosALibras() {
+    double gramos;
+    cout << "Ingrese cantidad en gramos: ";
+    cin >> gramos;
+    cout << gramos << " g equivalen a " << gramos / 453.592 << " libras." << endl;
+}
 
 int main() {
     int opcion;
