@@ -1,6 +1,12 @@
 #include <iostream>
 
 using namespace std;
+void gramosAKilogramos() {
+    double gramos;
+    cout << "Ingrese cantidad en gramos: ";
+    cin >> gramos;
+    cout << gramos << " g equivalen a " << gramos / 1000.0 << " kg." << endl;
+}
 
 int main() {
     int opcion;
