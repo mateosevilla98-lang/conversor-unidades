@@ -6,8 +6,14 @@ using namespace std;
     cout << "Ingrese cantidad en metros: ";
     cin >> metros;
     cout << metros << " m equivalen a " << metros / 1000.0 << " km." << endl;
+    
 }
-
+void metrosAMillas() {
+    double metros;
+    cout << "Ingrese cantidad en metros: ";
+    cin >> metros;
+    cout << metros << " m equivalen a " << metros / 1609.34 << " millas." << endl;
+}
 int main() {
     int opcion;
     cout << "--- Conversor de Unidades ---" << endl;
